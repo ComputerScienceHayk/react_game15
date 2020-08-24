@@ -1,7 +1,23 @@
 {
-  "main.css": "static/css/main.9d29a86b.css",
-  "main.css.map": "static/css/main.9d29a86b.css.map",
-  "main.js": "static/js/main.f4d70584.js",
-  "main.js.map": "static/js/main.f4d70584.js.map",
-  "static\\media\\background.jpg": "static/media/background.16d26a3b.jpg"
+  "files": {
+    "main.css": "/react_game15/static/css/main.5029d4bf.chunk.css",
+    "main.js": "/react_game15/static/js/main.644e6704.chunk.js",
+    "main.js.map": "/react_game15/static/js/main.644e6704.chunk.js.map",
+    "runtime-main.js": "/react_game15/static/js/runtime-main.a8d167a5.js",
+    "runtime-main.js.map": "/react_game15/static/js/runtime-main.a8d167a5.js.map",
+    "static/js/2.3f2270b1.chunk.js": "/react_game15/static/js/2.3f2270b1.chunk.js",
+    "static/js/2.3f2270b1.chunk.js.map": "/react_game15/static/js/2.3f2270b1.chunk.js.map",
+    "index.html": "/react_game15/index.html",
+    "precache-manifest.71d11a494f92a2bf026543c894592b13.js": "/react_game15/precache-manifest.71d11a494f92a2bf026543c894592b13.js",
+    "service-worker.js": "/react_game15/service-worker.js",
+    "static/css/main.5029d4bf.chunk.css.map": "/react_game15/static/css/main.5029d4bf.chunk.css.map",
+    "static/js/2.3f2270b1.chunk.js.LICENSE.txt": "/react_game15/static/js/2.3f2270b1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_game15/static/media/background.16d26a3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d167a5.js",
+    "static/js/2.3f2270b1.chunk.js",
+    "static/css/main.5029d4bf.chunk.css",
+    "static/js/main.644e6704.chunk.js"
+  ]
 }
